@@ -1,5 +1,6 @@
 ## Welcome to my page! 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RobinRingwelski)](https://git.io/streak-stats)
 
 About me:
 - 🔭 I’m currently working on: Built4Desktop
