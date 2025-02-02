@@ -1,7 +1,5 @@
 ## Welcome to my page! 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RobinRingwelski&theme=buefy-dark)](https://git.io/streak-stats)
-
 About me:
 - 🔭 I’m currently working on: Built4Desktop
 - 🌱 I’m currently learning: Java, C#, C++, PHP and SQL.
@@ -9,3 +7,4 @@ About me:
 - 🌎 Website: 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RobinRingwelski&theme=buefy-dark)](https://git.io/streak-stats)
