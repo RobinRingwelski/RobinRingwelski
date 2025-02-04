@@ -6,5 +6,3 @@ About me:
 - 📫 How to reach me: [...](https://www.linkedin.com/in/robin-ringwelski-b82023322/)
 - 🌎 Website: 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RobinRingwelski&theme=dark)](https://git.io/streak-stats)
