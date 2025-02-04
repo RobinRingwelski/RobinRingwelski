@@ -7,4 +7,4 @@ About me:
 - 🌎 Website: 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RobinRingwelski&theme=buefy-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RobinRingwelski&theme=dark)](https://git.io/streak-stats)
