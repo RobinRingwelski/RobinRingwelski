@@ -1,10 +1,10 @@
 ## Welcome to my page! 👋
 
 About me:
-- 🔭 I’m currently working on: Built4Desktop
-- 🌱 I’m currently learning: Java, C#, C++, PHP and SQL.
-- 📫 How to reach me: [...](https://www.linkedin.com/in/robin-ringwelski-b82023322/)
-- 🌎 Website: 
+- 🔭 I’m currently working on: Dekstop Applications
+- 🌱 I’m currently mainly learning: Java, C#, C++ and C.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robin-ringwelski-b82023322/)
+- 🌎 Website: "None"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinRingwelski&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
