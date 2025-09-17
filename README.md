@@ -15,7 +15,3 @@ Currently diving deeper into system-level and object-oriented programming with a
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinRingwelski&show_icons=true&theme=tokyonight)
 
 ---
-
-## 🔝 Main Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinRingwelski&layout=pie&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
