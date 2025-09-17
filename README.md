@@ -12,10 +12,10 @@ Currently diving deeper into system-level and object-oriented programming with a
 
 ## 📊 GitHub Stats
 
-![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinRingwelski&show_icons=true&theme=radical)
+![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinRingwelski&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔝 Main Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinRingwelski&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinRingwelski&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
