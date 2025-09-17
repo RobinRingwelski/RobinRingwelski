@@ -18,4 +18,4 @@ Currently diving deeper into system-level and object-oriented programming with a
 
 ## 🔝 Main Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinRingwelski&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinRingwelski&layout=pie&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
