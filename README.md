@@ -1,7 +1,7 @@
 ### About Me
 
 I enjoy building powerful and user-friendly desktop applications.  
-Currently diving deeper into system-level and object-oriented programming with a focus on:
+Currently diving deeper into system-level and imperativ and object-oriented programming with a focus on:
 
 - 💻 **Languages I’m currently exploring**: Java, C#, C++, and C. 
 - 🛠️ **What I’m working on**: Cross-platform desktop applications.  
